@@ -1,0 +1,10 @@
+no/uib/inf101/grid/GridTest.class
+no/uib/inf101/snakeGame/model/snake/PatternedSnakeFactory.class
+no/uib/inf101/snakeGame/model/SnakeBoardTest.class
+no/uib/inf101/snakeGame/model/snake/TestSnake.class
+no/uib/inf101/grid/GridCellTest.class
+no/uib/inf101/snakeGame/view/CellPositionToPixelConverterTest.class
+no/uib/inf101/grid/CellPositionTest.class
+no/uib/inf101/snakeGame/model/TestSnakeModel.class
+no/uib/inf101/snakeGame/model/snake/TestPatternedSnakeFactory.class
+no/uib/inf101/snakeGame/view/DefaultColorThemeTest.class
